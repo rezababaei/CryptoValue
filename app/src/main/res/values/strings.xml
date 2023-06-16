@@ -2,4 +2,8 @@
     <string name="app_name">Crypto Value</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="action_home">Home</string>
+    <string name="action_market">Market</string>
+    <string name="action_watchlist">Watchlist</string>
 </resources>
